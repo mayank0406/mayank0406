@@ -19,8 +19,5 @@ Tools: Git, VS Code, Postman
 LinkedIn: https://www.linkedin.com/in/mayank-singh-21208a190
 Portfolio: https://mayank-singh-portfolio.netlify.app
 Email: mayanksingh88882@gmail.com
-😄 Pronouns: He/Him
 
 ⚡ Fun fact: I love exploring emerging technologies and experimenting with new frameworks to stay ahead in the tech world! 🚀
-
-<!--- mayank0406/mayank0406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
