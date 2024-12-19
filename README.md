@@ -14,6 +14,7 @@ Backend: Node.js, Express.js, REST APIs
 Databases: MongoDB (Atlas), SQL
 Deployment: AWS (EC2, S3), GitHub Actions, Docker
 Tools: Git, VS Code, Postman
+
 📫 How to reach me:
 
 LinkedIn: https://www.linkedin.com/in/mayank-singh-21208a190
