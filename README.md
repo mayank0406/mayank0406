@@ -1,16 +1,16 @@
-<h1 align="center">Hey there! 👋 I'm Pavan Kalyan</h1>
+<h1 align="center">Hey there! 👋 I'm Mayank Singh</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB+%7C+Frontend+%2B+Backend;React+%2B+TypeScript+Expert+%F0%9F%8E%AF+%7C+Python+Enthusiast+%F0%9F%90%8D;AWS+Cloud+Architecture+%E2%98%81%EF%B8%8F+%7C+Docker+%F0%9F%90%B3+%7C+FastAPI+%E2%9A%A1;Building+scalable+and+robust+applications+%F0%9F%8F%97%EF%B8%8F;Always+learning%2C+always+innovating+%F0%9F%9A%80" alt="Typing SVG" />
 <div align="center">
-  <a href="https://pavankalyan-nvs.netlify.app" target="_blank">
+<!--   <a href="https://pavankalyan-nvs.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=pavankalyan-nvs">
+  </a> -->
+<!--   <a href="https://komarev.com/ghpvc/?username=pavankalyan-nvs">
     <img src="https://komarev.com/ghpvc/?username=pavankalyan-nvs&style=for-the-badge&color=brightgreen&label=%F0%9F%91%81%20Profile%20Views" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/pavankalyan-nvs?tab=followers">
+  </a> -->
+<!--   <a href="https://github.com/pavankalyan-nvs?tab=followers">
     <img src="https://img.shields.io/github/followers/pavankalyan-nvs?label=🤝 Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-</a>
+</a> -->
 </div>
 <!-- <div align="center">
   <img src="https://img.shields.io/badge/Total%20Contributions-301-blue?style=for-the-badge&logo=github" alt="Total Contributions"/>
@@ -76,16 +76,16 @@
 
 ## 🤝 Connect with me
 <div align="center">
-  <a href="https://www.linkedin.com/in/nvspavankalyanch/">
+  <a href="https://www.linkedin.com/in/mayank-singh-21208a190/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@codewithpavan">
+<!--   <a href="https://www.youtube.com/@codewithpavan">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="http://x.com/nvspavankalyan">
+  </a> -->
+<!--   <a href="http://x.com/nvspavankalyan">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
-  </a>
-  <a href="https://instagram.com/nvspavankalyanch">
+  </a> -->
+  <a href="https://www.instagram.com/mayankmusiclover/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
