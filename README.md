@@ -18,22 +18,6 @@
   <img src="https://img.shields.io/badge/Total%20Stars-6-yellow?style=for-the-badge&logo=github" alt="Total Stars"/>
 </div> -->
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pavankalyan-nvs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankalyan-nvs&theme=tokyonight&hide_border=true" width="400px" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavankalyan-nvs&layout=compact&theme=tokyonight&hide_border=true" width="400px" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavankalyan-nvs&theme=discord&no-frame=true&no-bg=true&column=7" width="100%" alt="Trophy" />
-</div>
-
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
