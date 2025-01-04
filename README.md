@@ -67,10 +67,5 @@
 </div>
 
 <div align="center">
-  <img width="1000" src="assets/SnakeGithub.svg" alt="snake"/>
-</div>
-
----
-<div align="center">
   Show some ❤️ by starring my repositories!
 </div>
